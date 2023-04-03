@@ -1,0 +1,209 @@
+body {
+    background-color:lightgray;
+}
+
+.section1{
+    background-color: black;
+    width: 15%;
+    height: 80px;
+    float: left;
+   
+}
+.section2{
+    background-color:grey;
+    width: 68%;
+    height: 80px;
+    float: left;
+    padding-left: 2%;
+}
+
+.menu {
+    margin: 0;
+    float:left;
+    padding: 10px;
+    
+ }
+ .text {
+    color: black;
+    font-size: 45px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+.menu li {
+    display: inline;
+}
+.button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    color:black;
+    padding: 10px;   
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color:bisque;
+}
+.section3{
+    background-color: black;
+    width: 15%;
+    height: 80px;
+    float:right;
+}
+
+.mainleft {
+    background-color:cadetblue;
+    width:15%;
+    height:700px;
+    float:left;
+}
+
+
+.container {
+    
+    background-color:cadetblue;
+    width:70%;
+    height:700px;
+    float: left;
+    color: white;
+}
+.bsm {
+    background-color:cadetblue;
+    width: 250px;
+    height:250px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 2%;
+    margin-left: 5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    float: left;
+    text-align: center;
+    text-justify:distribute-all-lines;
+    border-radius: 10px;
+    border-color: black;
+    border-style:inset;
+    border-width: 0.75px;
+}
+.web {
+    background-color: cadetblue;
+    width: 250px;
+    height:250px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 2%;
+    margin-left: 5%;
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: center;
+    text-justify:distribute-all-lines;
+    border-radius: 10px;
+    border-color: black;
+    border-style:inset;
+    border-width: 0.75px;
+}
+.salesforce {
+    background-color: cadetblue;
+    width: 250px;
+    height:250px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 2%;
+    margin-left: 5%;
+    padding-left: 1%;
+    padding-right: 1%;
+    float: left;
+    text-align: center;
+    text-justify:distribute-all-lines;
+    border-radius: 10px;
+    border-color: black;
+    border-style:inset;
+    border-width: 0.75px;
+}
+
+.lowermain {
+    background-color:lightgrey;
+    width:100%;
+    height:400px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+    margin-top: 2%;
+    float: left;
+}
+.links {
+    background-color: aliceblue;
+    width: 20%;
+    height: 250px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align:left;
+    padding-left: 20px;
+    
+}
+.sidebar {
+    list-style: none;
+    
+}
+.item {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+}
+.item:hover {
+    background-color:darkorange;
+}
+.support {
+    background-color: aliceblue;
+    width: 790px;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 250px;
+    float: left;
+    padding-left: 10;
+    text-align:left;
+}
+.behaviour {
+    width:350px;
+    height:250px;
+    float: left;
+}
+.mindset {
+    width:350px;
+    height:250px;
+    float: left;
+}
+.footer {
+    background-color:black;
+    width: 100%;
+    margin-top: 10px;
+    height: 135px;
+    float: left;
+    text-align:center;
+    color: white;
+}
+.copy {
+    font-size:small;
+    float:right;
+    margin-right: 10px;
+}
+
+img {
+    width:40px;
+    height: 40px;
+    padding: 10px;
+}
+.mainright {
+    background-color:cadetblue;
+    width:15%;
+    height: 700px;
+    float:right;
+}
